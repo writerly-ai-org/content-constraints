@@ -12,6 +12,12 @@
       "optimal": 1000,
       "unit": "characters"
     },
+	"description_details": {
+      "min": 3,
+      "max": 7,
+      "optimal": 5,
+      "unit": "items"
+    },
     "short_description": {
       "min": 50,
       "max": 160,
