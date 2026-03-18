@@ -12,5 +12,3 @@ Top-level keys: `product`, `collection`. Each field object contains:
 - `unit` — string (e.g., "characters", "words", "items")
 
 **Future Dev**: Expand this to add `target_min` and `target_max` and `structural` data.
-
-Test direct push

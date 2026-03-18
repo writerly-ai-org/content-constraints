@@ -1,7 +1,7 @@
 {
   "product": {
     "title": {
-      "min": 41,
+      "min": 40,
       "max": 70,
       "optimal": 60,
       "unit": "characters"
